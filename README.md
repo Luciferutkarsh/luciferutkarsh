@@ -6,6 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/thecode_shed" target="blank"><img src="https://img.shields.io/twitter/follow/thecode_shed?logo=twitter&style=for-the-badge" alt="thecode_shed" /></a> </p>
 
+
+<p align="left"> <a href="https://www.linkedin.com/in/utkarsh-u-30874811b/" target="blank"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" alt="Lucifer Utkarsh" width="42" </a>
+<a href="https://www.luciferutkarsh.ml/" target="_blank"><img src="https://img.icons8.com/ios/452/domain.png" alt="Lucifer Utkarsh" width="42" </a>
+<a href="https://www.hackerrank.com/utkarsh_umangayu" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="Lucifer Utkarsh" width="42" </a>
+</p>
+
 - 🔭 I’m currently working on **365daysofcode**
 
 - 🌱 I’m currently learning **REACT, Front-End, Angular, Node Js**
