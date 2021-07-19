@@ -11,7 +11,7 @@
 <a href="https://www.luciferutkarsh.ml/" target="_blank"><img src="https://www.freeiconspng.com/uploads/website-icon-18.png" alt="Lucifer Utkarsh" width="42" </a>
 <a href="https://www.hackerrank.com/utkarsh_umangayu" target="blank"><img src="https://camo.githubusercontent.com/898f94be504f7baf1ddb0a2811152dab61cfd723e683b6947be9ffa3c879ccc4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36352f4861636b657252616e6b5f6c6f676f2e706e67" alt="Lucifer Utkarsh" width="42" </a>
 <a href="tel:+917061856567"><img src="https://i.pinimg.com/originals/e5/89/38/e589388eb222889b1771b439a51510bb.png" alt="Splash-Whatsapp-icon-PNG" alt="Lucifer Utkarsh" width="42"></a>
-<a href="https://codepen.io/luciferutkarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="luciferutkarsh" height="30" width="40" /></a></p>
+<a href="https://codepen.io/luciferutkarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="luciferutkarsh" width="42" /></a></p>
 - 🔭 I’m currently working on **365daysofcode**
 
 - 🌱 I’m currently learning **REACT, Front-End, Angular, Node Js**
